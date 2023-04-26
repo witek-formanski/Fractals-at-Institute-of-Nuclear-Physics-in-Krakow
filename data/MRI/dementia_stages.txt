@@ -1,0 +1,3 @@
+these are four exemplary MRI brain scans:
+- a and b are from early stages of dementia
+- c and d are from late stages of dementia
