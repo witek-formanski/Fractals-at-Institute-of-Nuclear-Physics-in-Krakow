@@ -10,7 +10,7 @@ We focused on 4 domains:
 3. Analysis of city infrastracture from a bird's eye view - we processed maps and tried to find fractal properties in layout of streets and buildings.
 4. Analysis of stock chart, which is said to also have presumably some fractal properties.
 
-Everything happend in 2022, thanks to scholarship program "Krajowy Fundusz na Rzecz Dzieci", which I have pleasure to be part of.
+Everything happend in 2022, thanks to scholarship program [Krajowy Fundusz na Rzecz Dzieci](https://fundusz.org), which I have pleasure to be part of.
 
 ## Usage guide
 - fractals.py 
