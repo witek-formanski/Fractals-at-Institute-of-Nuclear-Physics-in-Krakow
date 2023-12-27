@@ -1,7 +1,7 @@
 # Fractals-at-Institute-of-Nuclear-Physics-in-Cracow
 ## Introduction
 Results of scientific workshops at IFJ PAN in Cracow.
-The code was created by Jakub Halfar and me under the eye of Phd Eng Paweł Oświęcimka (https://scholar.google.pl/citations?user=i2uGj0YAAAAJ&hl=pl).
+The code was created by Jakub Halfar and me under the eye of Phd Eng [Paweł Oświęcimka](https://scholar.google.pl/citations?user=i2uGj0YAAAAJ&hl=en).
 Our goal was to use box-counting method in order to calculate fractal dimension of an object shown on a picture.
 
 We focused on 4 domains: 
